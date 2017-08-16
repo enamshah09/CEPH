@@ -1,3 +1,5 @@
+#Jewel Version
+
 [global]
 fsid = #CEPH Cluster id
 mon_initial_members = node1, node2, node3
